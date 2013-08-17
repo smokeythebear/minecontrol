@@ -3,7 +3,7 @@ minecontrol
 
 A simple GUI for Pooler's cpuminer, written in VB6. Designed for mining Litecoin.
 
-Requirements: 
+Requirements: Windows 2000, XP, Vista, Windows 7, Windows 8
 Tested With: Windows XP SP3 32bit, Windows 7 32bit
 
 By smokeythebear
