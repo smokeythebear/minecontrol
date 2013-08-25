@@ -1,10 +1,11 @@
 minecontrol
 ===========
 
-A simple GUI for Pooler's cpuminer, written in VB6. Designed for mining Litecoin.
+A simple GUI for Pooler's cpuminer, written in VB.NET 2010. Designed for mining Litecoin.
 
-Requirements: Windows 2000, XP, Vista, Windows 7, Windows 8
-Tested With: Windows XP SP3 32bit, Windows 7 32bit
+OS Requirements: Windows XP, Vista, Windows 7, Windows 8 
+Other Requirements: .NET Framework 4.0
+Tested With: Windows XP SP3 32-bit, Windows 7 32-bit, Windows 7 64-bit
 
 By smokeythebear
 Contact: marc.thomas-cozhqqhu@yopmail.com
@@ -15,15 +16,11 @@ Donations graciously accepted at Litecoin address:
 
 
 First Build: 08/15/13
-Updated: 08/17/13
-
-
-DOS Portions (pipe a DOS command) by Marco Pipino
-marcopipino@libero.it
-28/02/2002
+Updated: 08/25/13
 
 
 Usage
 Note: In order to properly run, the minerd executable must be in the same folder as the minecontrol executable.
 
 
+THIS IS ALPHA STUFF... DON'T CRY TO ME WHEN YOU MESS SOMETHING UP TOYING WITH IT.
